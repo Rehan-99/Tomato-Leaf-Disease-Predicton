@@ -71,7 +71,7 @@ pyrsistent
 PySocks
 python-dateutil
 pytz
-pywinpty
+#pywinpty
 pyzmq
 qtconsole
 QtPy
